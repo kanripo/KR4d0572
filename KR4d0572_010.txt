@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 南湖集
-#+DATE: 2020-03-31 11:36:06.387490
+#+DATE: 2020-03-31 11:36:06.512258
 #+PROPERTY: ID KR4d0572
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 10
 <pb:KR4d0572_WYG_010-1a>¶
 　　欽定四庫全書¶
@@ -265,7 +265,7 @@
 　　夜遊宫(美人)¶
 ¶
 　　鵲相龎兒誰有兀底便筆描不就小邈如何敢出手細¶
-端相甚精神甚洗潄　到老長厮守不喫飯也須唧&KR1435;¶
+端相甚精神甚洗潄　到老長厮守不喫飯也須唧𠺕¶
 你待包彈怎開口煖底雪活底花嫩底柳¶
 ¶
 　　醉髙樓(初月)¶

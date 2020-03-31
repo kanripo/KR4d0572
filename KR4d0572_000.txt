@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 南湖集
-#+DATE: 2020-03-31 11:36:06.285843
+#+DATE: 2020-03-31 11:36:06.415856
 #+PROPERTY: ID KR4d0572
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR4d0572_WYG_000-1a>¶
 　　欽定四庫全書　　　　　集部四¶

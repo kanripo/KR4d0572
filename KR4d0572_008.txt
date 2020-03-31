@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 南湖集
-#+DATE: 2020-03-31 11:36:06.365576
+#+DATE: 2020-03-31 11:36:06.489798
 #+PROPERTY: ID KR4d0572
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 8
 <pb:KR4d0572_WYG_008-1a>¶
 　　欽定四庫全書¶
@@ -270,7 +270,7 @@
 　　老僧分袂倐三年猶記芳池躍翠泉新叠兩山都未識¶
 北堂引㸔更東偏¶
 ¶
-　　支徑坡陀竹最多籜龍纔起更成窠穿嵐觸翠&KR0638;塘出¶
+　　支徑坡陀竹最多籜龍纔起更成窠穿嵐觸翠拗塘出¶
 一片香来得嫩荷¶
 ¶
 　　井分泉脉透巉巖誰道飛流是假山水鳥樹林皆作供¶

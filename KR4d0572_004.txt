@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 南湖集
-#+DATE: 2020-03-31 11:36:06.320008
+#+DATE: 2020-03-31 11:36:06.445072
 #+PROPERTY: ID KR4d0572
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 4
 <pb:KR4d0572_WYG_004-1a>¶
 　　欽定四庫全書¶
@@ -127,7 +127,7 @@
 　　冬至後五日約客晨徃極樂精舍因尋梅湖山¶
 作詩紀事¶
 ¶
-　　烟重山彌逺林髙日倍鮮抱雞趨野店𣂏水入氷田未¶
+　　烟重山彌逺林髙日倍鮮抱雞趨野店㪺水入氷田未¶
 <pb:KR4d0572_WYG_004-5b>¶
 有三冬雪渾如二月天梅花應早慧著眼竹籬前¶
 ¶

@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view -*-
 #+TITLE: 南湖集
-#+DATE: 2020-03-31 11:36:06.307701
+#+DATE: 2020-03-31 11:36:06.436615
 #+PROPERTY: ID KR4d0572
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 3
 <pb:KR4d0572_WYG_003-1a>¶
 　　欽定四庫全書¶
@@ -104,7 +104,7 @@
 更愛無心真絶比紛紛馳谷跨深坑苟禄貪榮顙流泚¶
 <pb:KR4d0572_WYG_003-5b>¶
 辛勤縱得席暫煖爭坐成羣又催起豈若髙蹈身不與¶
-裹布羮蔬藉温美乗閒書紙本非詩切勿多傳召&KR0339;鄙¶
+裹布羮蔬藉温美乗閒書紙本非詩切勿多傳召嗤鄙¶
 ¶
 　　簡喻叔竒工部沈無隱寺簿¶
 ¶
